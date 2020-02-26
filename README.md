@@ -3,7 +3,7 @@
 ## Setup
 
 * Create a _local_ project directory
-* Complete the iterations below **before** your scheduled mid-mod time!
+* Complete the iterations below **before** your scheduled mid-mod time!  
 **Do Not Push Your Work to GitHub**
 
 ## Iteration 1
